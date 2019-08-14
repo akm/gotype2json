@@ -1,0 +1,1 @@
+# gotype2json
