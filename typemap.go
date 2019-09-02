@@ -1,4 +1,4 @@
-package main
+package gotype2json
 
 import (
 	"fmt"

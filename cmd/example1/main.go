@@ -1,15 +1,16 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
+	"net/http"
 	"os"
 
-	"encoding/json"
-	"net/http"
+	"github.com/akm/gotype2json"
 )
 
 func main() {
-	tm := TypeMap{}
+	tm := gotype2json.TypeMap{}
 	tm.Start(
 		(*http.Request)(nil),
 		(*http.Response)(nil),
