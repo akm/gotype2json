@@ -1,0 +1,1699 @@
+{
+  "*crypto/tls.ConnectionState": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*tls.ConnectionState",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "crypto/tls.ConnectionState",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*crypto/x509.Certificate": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*x509.Certificate",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "crypto/x509.Certificate",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*math/big.Int": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*big.Int",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "math/big.Int",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*mime/multipart.FileHeader": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*multipart.FileHeader",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "mime/multipart.FileHeader",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*mime/multipart.Form": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*multipart.Form",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "mime/multipart.Form",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*net.IPNet": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*net.IPNet",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "net.IPNet",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*net/http.Request": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*http.Request",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "net/http.Request",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*net/http.Response": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*http.Response",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "net/http.Response",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*net/url.URL": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*url.URL",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "net/url.URL",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*net/url.Userinfo": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*url.Userinfo",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "net/url.Userinfo",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*time.Location": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*time.Location",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "time.Location",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "*time.zone": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "*time.zone",
+    "Kind": 22,
+    "KindName": "ptr",
+    "ElemFqn": "time.zone",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]*crypto/x509.Certificate": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]*x509.Certificate",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "*crypto/x509.Certificate",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]*mime/multipart.FileHeader": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]*multipart.FileHeader",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "*mime/multipart.FileHeader",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]*net.IPNet": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]*net.IPNet",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "*net.IPNet",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]*net/url.URL": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]*url.URL",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "*net/url.URL",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[][]*crypto/x509.Certificate": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[][]*x509.Certificate",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "[]*crypto/x509.Certificate",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[][]uint8": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[][]uint8",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "[]uint8",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]crypto/x509.ExtKeyUsage": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]x509.ExtKeyUsage",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "crypto/x509.ExtKeyUsage",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]crypto/x509/pkix.AttributeTypeAndValue": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]pkix.AttributeTypeAndValue",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "crypto/x509/pkix.AttributeTypeAndValue",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]crypto/x509/pkix.Extension": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]pkix.Extension",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "crypto/x509/pkix.Extension",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]encoding/asn1.ObjectIdentifier": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]asn1.ObjectIdentifier",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "encoding/asn1.ObjectIdentifier",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]net.IP": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]net.IP",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "net.IP",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]string": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]string",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "string",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]time.zone": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]time.zone",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "time.zone",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]time.zoneTrans": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]time.zoneTrans",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "time.zoneTrans",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "[]uint8": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 24,
+    "String": "[]uint8",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "uint8",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "bool": {
+    "Name": "bool",
+    "PkgPath": "",
+    "Size": 1,
+    "String": "bool",
+    "Kind": 1,
+    "KindName": "bool",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "ch:struct {}": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "\u003c-chan struct {}",
+    "Kind": 18,
+    "KindName": "chan",
+    "ElemFqn": "struct {}",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "context.Context": {
+    "Name": "Context",
+    "PkgPath": "context",
+    "Size": 16,
+    "String": "context.Context",
+    "Kind": 20,
+    "KindName": "interface",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "crypto/tls.ConnectionState": {
+    "Name": "ConnectionState",
+    "PkgPath": "crypto/tls",
+    "Size": 176,
+    "String": "tls.ConnectionState",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Version",
+        "PkgPath": "",
+        "TypeFqn": "uint16",
+        "Tag": ""
+      },
+      {
+        "Name": "HandshakeComplete",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "DidResume",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "CipherSuite",
+        "PkgPath": "",
+        "TypeFqn": "uint16",
+        "Tag": ""
+      },
+      {
+        "Name": "NegotiatedProtocol",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "NegotiatedProtocolIsMutual",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "ServerName",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "PeerCertificates",
+        "PkgPath": "",
+        "TypeFqn": "[]*crypto/x509.Certificate",
+        "Tag": ""
+      },
+      {
+        "Name": "VerifiedChains",
+        "PkgPath": "",
+        "TypeFqn": "[][]*crypto/x509.Certificate",
+        "Tag": ""
+      },
+      {
+        "Name": "SignedCertificateTimestamps",
+        "PkgPath": "",
+        "TypeFqn": "[][]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "OCSPResponse",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "ekm",
+        "PkgPath": "crypto/tls",
+        "TypeFqn": "func(string, []uint8, int) ([]uint8, error)",
+        "Tag": ""
+      },
+      {
+        "Name": "TLSUnique",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      }
+    ]
+  },
+  "crypto/x509.Certificate": {
+    "Name": "Certificate",
+    "PkgPath": "crypto/x509",
+    "Size": 1328,
+    "String": "x509.Certificate",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Raw",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "RawTBSCertificate",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "RawSubjectPublicKeyInfo",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "RawSubject",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "RawIssuer",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "Signature",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "SignatureAlgorithm",
+        "PkgPath": "",
+        "TypeFqn": "crypto/x509.SignatureAlgorithm",
+        "Tag": ""
+      },
+      {
+        "Name": "PublicKeyAlgorithm",
+        "PkgPath": "",
+        "TypeFqn": "crypto/x509.PublicKeyAlgorithm",
+        "Tag": ""
+      },
+      {
+        "Name": "PublicKey",
+        "PkgPath": "",
+        "TypeFqn": "interface {}",
+        "Tag": ""
+      },
+      {
+        "Name": "Version",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "SerialNumber",
+        "PkgPath": "",
+        "TypeFqn": "*math/big.Int",
+        "Tag": ""
+      },
+      {
+        "Name": "Issuer",
+        "PkgPath": "",
+        "TypeFqn": "crypto/x509/pkix.Name",
+        "Tag": ""
+      },
+      {
+        "Name": "Subject",
+        "PkgPath": "",
+        "TypeFqn": "crypto/x509/pkix.Name",
+        "Tag": ""
+      },
+      {
+        "Name": "NotBefore",
+        "PkgPath": "",
+        "TypeFqn": "time.Time",
+        "Tag": ""
+      },
+      {
+        "Name": "NotAfter",
+        "PkgPath": "",
+        "TypeFqn": "time.Time",
+        "Tag": ""
+      },
+      {
+        "Name": "KeyUsage",
+        "PkgPath": "",
+        "TypeFqn": "crypto/x509.KeyUsage",
+        "Tag": ""
+      },
+      {
+        "Name": "Extensions",
+        "PkgPath": "",
+        "TypeFqn": "[]crypto/x509/pkix.Extension",
+        "Tag": ""
+      },
+      {
+        "Name": "ExtraExtensions",
+        "PkgPath": "",
+        "TypeFqn": "[]crypto/x509/pkix.Extension",
+        "Tag": ""
+      },
+      {
+        "Name": "UnhandledCriticalExtensions",
+        "PkgPath": "",
+        "TypeFqn": "[]encoding/asn1.ObjectIdentifier",
+        "Tag": ""
+      },
+      {
+        "Name": "ExtKeyUsage",
+        "PkgPath": "",
+        "TypeFqn": "[]crypto/x509.ExtKeyUsage",
+        "Tag": ""
+      },
+      {
+        "Name": "UnknownExtKeyUsage",
+        "PkgPath": "",
+        "TypeFqn": "[]encoding/asn1.ObjectIdentifier",
+        "Tag": ""
+      },
+      {
+        "Name": "BasicConstraintsValid",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "IsCA",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "MaxPathLen",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "MaxPathLenZero",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "SubjectKeyId",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "AuthorityKeyId",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "OCSPServer",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "IssuingCertificateURL",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "DNSNames",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "EmailAddresses",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "IPAddresses",
+        "PkgPath": "",
+        "TypeFqn": "[]net.IP",
+        "Tag": ""
+      },
+      {
+        "Name": "URIs",
+        "PkgPath": "",
+        "TypeFqn": "[]*net/url.URL",
+        "Tag": ""
+      },
+      {
+        "Name": "PermittedDNSDomainsCritical",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "PermittedDNSDomains",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "ExcludedDNSDomains",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "PermittedIPRanges",
+        "PkgPath": "",
+        "TypeFqn": "[]*net.IPNet",
+        "Tag": ""
+      },
+      {
+        "Name": "ExcludedIPRanges",
+        "PkgPath": "",
+        "TypeFqn": "[]*net.IPNet",
+        "Tag": ""
+      },
+      {
+        "Name": "PermittedEmailAddresses",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "ExcludedEmailAddresses",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "PermittedURIDomains",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "ExcludedURIDomains",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "CRLDistributionPoints",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "PolicyIdentifiers",
+        "PkgPath": "",
+        "TypeFqn": "[]encoding/asn1.ObjectIdentifier",
+        "Tag": ""
+      }
+    ]
+  },
+  "crypto/x509.ExtKeyUsage": {
+    "Name": "ExtKeyUsage",
+    "PkgPath": "crypto/x509",
+    "Size": 8,
+    "String": "x509.ExtKeyUsage",
+    "Kind": 2,
+    "KindName": "int",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "crypto/x509.KeyUsage": {
+    "Name": "KeyUsage",
+    "PkgPath": "crypto/x509",
+    "Size": 8,
+    "String": "x509.KeyUsage",
+    "Kind": 2,
+    "KindName": "int",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "crypto/x509.PublicKeyAlgorithm": {
+    "Name": "PublicKeyAlgorithm",
+    "PkgPath": "crypto/x509",
+    "Size": 8,
+    "String": "x509.PublicKeyAlgorithm",
+    "Kind": 2,
+    "KindName": "int",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "crypto/x509.SignatureAlgorithm": {
+    "Name": "SignatureAlgorithm",
+    "PkgPath": "crypto/x509",
+    "Size": 8,
+    "String": "x509.SignatureAlgorithm",
+    "Kind": 2,
+    "KindName": "int",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "crypto/x509/pkix.AttributeTypeAndValue": {
+    "Name": "AttributeTypeAndValue",
+    "PkgPath": "crypto/x509/pkix",
+    "Size": 40,
+    "String": "pkix.AttributeTypeAndValue",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Type",
+        "PkgPath": "",
+        "TypeFqn": "encoding/asn1.ObjectIdentifier",
+        "Tag": ""
+      },
+      {
+        "Name": "Value",
+        "PkgPath": "",
+        "TypeFqn": "interface {}",
+        "Tag": ""
+      }
+    ]
+  },
+  "crypto/x509/pkix.Extension": {
+    "Name": "Extension",
+    "PkgPath": "crypto/x509/pkix",
+    "Size": 56,
+    "String": "pkix.Extension",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Id",
+        "PkgPath": "",
+        "TypeFqn": "encoding/asn1.ObjectIdentifier",
+        "Tag": ""
+      },
+      {
+        "Name": "Critical",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": "asn1:\"optional\""
+      },
+      {
+        "Name": "Value",
+        "PkgPath": "",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      }
+    ]
+  },
+  "crypto/x509/pkix.Name": {
+    "Name": "Name",
+    "PkgPath": "crypto/x509/pkix",
+    "Size": 248,
+    "String": "pkix.Name",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Country",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "Organization",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "OrganizationalUnit",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "Locality",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "Province",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "StreetAddress",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "PostalCode",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "SerialNumber",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "CommonName",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Names",
+        "PkgPath": "",
+        "TypeFqn": "[]crypto/x509/pkix.AttributeTypeAndValue",
+        "Tag": ""
+      },
+      {
+        "Name": "ExtraNames",
+        "PkgPath": "",
+        "TypeFqn": "[]crypto/x509/pkix.AttributeTypeAndValue",
+        "Tag": ""
+      }
+    ]
+  },
+  "encoding/asn1.ObjectIdentifier": {
+    "Name": "ObjectIdentifier",
+    "PkgPath": "encoding/asn1",
+    "Size": 24,
+    "String": "asn1.ObjectIdentifier",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "int",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "func() (io.ReadCloser, error)": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "func() (io.ReadCloser, error)",
+    "Kind": 19,
+    "KindName": "func",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "func(string, []uint8, int) ([]uint8, error)": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "func(string, []uint8, int) ([]uint8, error)",
+    "Kind": 19,
+    "KindName": "func",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "int": {
+    "Name": "int",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "int",
+    "Kind": 2,
+    "KindName": "int",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "int64": {
+    "Name": "int64",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "int64",
+    "Kind": 6,
+    "KindName": "int64",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "interface {}": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 16,
+    "String": "interface {}",
+    "Kind": 20,
+    "KindName": "interface",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "io.ReadCloser": {
+    "Name": "ReadCloser",
+    "PkgPath": "io",
+    "Size": 16,
+    "String": "io.ReadCloser",
+    "Kind": 20,
+    "KindName": "interface",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "map[string][]*mime/multipart.FileHeader": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "map[string][]*multipart.FileHeader",
+    "Kind": 21,
+    "KindName": "map",
+    "ElemFqn": "[]*mime/multipart.FileHeader",
+    "KeyFqn": "string",
+    "Fields": null
+  },
+  "map[string][]string": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "map[string][]string",
+    "Kind": 21,
+    "KindName": "map",
+    "ElemFqn": "[]string",
+    "KeyFqn": "string",
+    "Fields": null
+  },
+  "math/big.Int": {
+    "Name": "Int",
+    "PkgPath": "math/big",
+    "Size": 32,
+    "String": "big.Int",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "neg",
+        "PkgPath": "math/big",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "abs",
+        "PkgPath": "math/big",
+        "TypeFqn": "math/big.nat",
+        "Tag": ""
+      }
+    ]
+  },
+  "math/big.Word": {
+    "Name": "Word",
+    "PkgPath": "math/big",
+    "Size": 8,
+    "String": "big.Word",
+    "Kind": 7,
+    "KindName": "uint",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "math/big.nat": {
+    "Name": "nat",
+    "PkgPath": "math/big",
+    "Size": 24,
+    "String": "big.nat",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "math/big.Word",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "mime/multipart.FileHeader": {
+    "Name": "FileHeader",
+    "PkgPath": "mime/multipart",
+    "Size": 72,
+    "String": "multipart.FileHeader",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Filename",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Header",
+        "PkgPath": "",
+        "TypeFqn": "net/textproto.MIMEHeader",
+        "Tag": ""
+      },
+      {
+        "Name": "Size",
+        "PkgPath": "",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "content",
+        "PkgPath": "mime/multipart",
+        "TypeFqn": "[]uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "tmpfile",
+        "PkgPath": "mime/multipart",
+        "TypeFqn": "string",
+        "Tag": ""
+      }
+    ]
+  },
+  "mime/multipart.Form": {
+    "Name": "Form",
+    "PkgPath": "mime/multipart",
+    "Size": 16,
+    "String": "multipart.Form",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Value",
+        "PkgPath": "",
+        "TypeFqn": "map[string][]string",
+        "Tag": ""
+      },
+      {
+        "Name": "File",
+        "PkgPath": "",
+        "TypeFqn": "map[string][]*mime/multipart.FileHeader",
+        "Tag": ""
+      }
+    ]
+  },
+  "net.IP": {
+    "Name": "IP",
+    "PkgPath": "net",
+    "Size": 24,
+    "String": "net.IP",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "uint8",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "net.IPMask": {
+    "Name": "IPMask",
+    "PkgPath": "net",
+    "Size": 24,
+    "String": "net.IPMask",
+    "Kind": 23,
+    "KindName": "slice",
+    "ElemFqn": "uint8",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "net.IPNet": {
+    "Name": "IPNet",
+    "PkgPath": "net",
+    "Size": 48,
+    "String": "net.IPNet",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "IP",
+        "PkgPath": "",
+        "TypeFqn": "net.IP",
+        "Tag": ""
+      },
+      {
+        "Name": "Mask",
+        "PkgPath": "",
+        "TypeFqn": "net.IPMask",
+        "Tag": ""
+      }
+    ]
+  },
+  "net/http.Header": {
+    "Name": "Header",
+    "PkgPath": "net/http",
+    "Size": 8,
+    "String": "http.Header",
+    "Kind": 21,
+    "KindName": "map",
+    "ElemFqn": "[]string",
+    "KeyFqn": "string",
+    "Fields": null
+  },
+  "net/http.Request": {
+    "Name": "Request",
+    "PkgPath": "net/http",
+    "Size": 248,
+    "String": "http.Request",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Method",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "URL",
+        "PkgPath": "",
+        "TypeFqn": "*net/url.URL",
+        "Tag": ""
+      },
+      {
+        "Name": "Proto",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "ProtoMajor",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "ProtoMinor",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "Header",
+        "PkgPath": "",
+        "TypeFqn": "net/http.Header",
+        "Tag": ""
+      },
+      {
+        "Name": "Body",
+        "PkgPath": "",
+        "TypeFqn": "io.ReadCloser",
+        "Tag": ""
+      },
+      {
+        "Name": "GetBody",
+        "PkgPath": "",
+        "TypeFqn": "func() (io.ReadCloser, error)",
+        "Tag": ""
+      },
+      {
+        "Name": "ContentLength",
+        "PkgPath": "",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "TransferEncoding",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "Close",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "Host",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Form",
+        "PkgPath": "",
+        "TypeFqn": "net/url.Values",
+        "Tag": ""
+      },
+      {
+        "Name": "PostForm",
+        "PkgPath": "",
+        "TypeFqn": "net/url.Values",
+        "Tag": ""
+      },
+      {
+        "Name": "MultipartForm",
+        "PkgPath": "",
+        "TypeFqn": "*mime/multipart.Form",
+        "Tag": ""
+      },
+      {
+        "Name": "Trailer",
+        "PkgPath": "",
+        "TypeFqn": "net/http.Header",
+        "Tag": ""
+      },
+      {
+        "Name": "RemoteAddr",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "RequestURI",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "TLS",
+        "PkgPath": "",
+        "TypeFqn": "*crypto/tls.ConnectionState",
+        "Tag": ""
+      },
+      {
+        "Name": "Cancel",
+        "PkgPath": "",
+        "TypeFqn": "ch:struct {}",
+        "Tag": ""
+      },
+      {
+        "Name": "Response",
+        "PkgPath": "",
+        "TypeFqn": "*net/http.Response",
+        "Tag": ""
+      },
+      {
+        "Name": "ctx",
+        "PkgPath": "net/http",
+        "TypeFqn": "context.Context",
+        "Tag": ""
+      }
+    ]
+  },
+  "net/http.Response": {
+    "Name": "Response",
+    "PkgPath": "net/http",
+    "Size": 144,
+    "String": "http.Response",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Status",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "StatusCode",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "Proto",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "ProtoMajor",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "ProtoMinor",
+        "PkgPath": "",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "Header",
+        "PkgPath": "",
+        "TypeFqn": "net/http.Header",
+        "Tag": ""
+      },
+      {
+        "Name": "Body",
+        "PkgPath": "",
+        "TypeFqn": "io.ReadCloser",
+        "Tag": ""
+      },
+      {
+        "Name": "ContentLength",
+        "PkgPath": "",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "TransferEncoding",
+        "PkgPath": "",
+        "TypeFqn": "[]string",
+        "Tag": ""
+      },
+      {
+        "Name": "Close",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "Uncompressed",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "Trailer",
+        "PkgPath": "",
+        "TypeFqn": "net/http.Header",
+        "Tag": ""
+      },
+      {
+        "Name": "Request",
+        "PkgPath": "",
+        "TypeFqn": "*net/http.Request",
+        "Tag": ""
+      },
+      {
+        "Name": "TLS",
+        "PkgPath": "",
+        "TypeFqn": "*crypto/tls.ConnectionState",
+        "Tag": ""
+      }
+    ]
+  },
+  "net/textproto.MIMEHeader": {
+    "Name": "MIMEHeader",
+    "PkgPath": "net/textproto",
+    "Size": 8,
+    "String": "textproto.MIMEHeader",
+    "Kind": 21,
+    "KindName": "map",
+    "ElemFqn": "[]string",
+    "KeyFqn": "string",
+    "Fields": null
+  },
+  "net/url.URL": {
+    "Name": "URL",
+    "PkgPath": "net/url",
+    "Size": 128,
+    "String": "url.URL",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "Scheme",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Opaque",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "User",
+        "PkgPath": "",
+        "TypeFqn": "*net/url.Userinfo",
+        "Tag": ""
+      },
+      {
+        "Name": "Host",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Path",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "RawPath",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "ForceQuery",
+        "PkgPath": "",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "RawQuery",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "Fragment",
+        "PkgPath": "",
+        "TypeFqn": "string",
+        "Tag": ""
+      }
+    ]
+  },
+  "net/url.Userinfo": {
+    "Name": "Userinfo",
+    "PkgPath": "net/url",
+    "Size": 40,
+    "String": "url.Userinfo",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "username",
+        "PkgPath": "net/url",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "password",
+        "PkgPath": "net/url",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "passwordSet",
+        "PkgPath": "net/url",
+        "TypeFqn": "bool",
+        "Tag": ""
+      }
+    ]
+  },
+  "net/url.Values": {
+    "Name": "Values",
+    "PkgPath": "net/url",
+    "Size": 8,
+    "String": "url.Values",
+    "Kind": 21,
+    "KindName": "map",
+    "ElemFqn": "[]string",
+    "KeyFqn": "string",
+    "Fields": null
+  },
+  "string": {
+    "Name": "string",
+    "PkgPath": "",
+    "Size": 16,
+    "String": "string",
+    "Kind": 24,
+    "KindName": "string",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "struct {}": {
+    "Name": "",
+    "PkgPath": "",
+    "Size": 0,
+    "String": "struct {}",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": []
+  },
+  "time.Location": {
+    "Name": "Location",
+    "PkgPath": "time",
+    "Size": 88,
+    "String": "time.Location",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "name",
+        "PkgPath": "time",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "zone",
+        "PkgPath": "time",
+        "TypeFqn": "[]time.zone",
+        "Tag": ""
+      },
+      {
+        "Name": "tx",
+        "PkgPath": "time",
+        "TypeFqn": "[]time.zoneTrans",
+        "Tag": ""
+      },
+      {
+        "Name": "cacheStart",
+        "PkgPath": "time",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "cacheEnd",
+        "PkgPath": "time",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "cacheZone",
+        "PkgPath": "time",
+        "TypeFqn": "*time.zone",
+        "Tag": ""
+      }
+    ]
+  },
+  "time.Time": {
+    "Name": "Time",
+    "PkgPath": "time",
+    "Size": 24,
+    "String": "time.Time",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "wall",
+        "PkgPath": "time",
+        "TypeFqn": "uint64",
+        "Tag": ""
+      },
+      {
+        "Name": "ext",
+        "PkgPath": "time",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "loc",
+        "PkgPath": "time",
+        "TypeFqn": "*time.Location",
+        "Tag": ""
+      }
+    ]
+  },
+  "time.zone": {
+    "Name": "zone",
+    "PkgPath": "time",
+    "Size": 32,
+    "String": "time.zone",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "name",
+        "PkgPath": "time",
+        "TypeFqn": "string",
+        "Tag": ""
+      },
+      {
+        "Name": "offset",
+        "PkgPath": "time",
+        "TypeFqn": "int",
+        "Tag": ""
+      },
+      {
+        "Name": "isDST",
+        "PkgPath": "time",
+        "TypeFqn": "bool",
+        "Tag": ""
+      }
+    ]
+  },
+  "time.zoneTrans": {
+    "Name": "zoneTrans",
+    "PkgPath": "time",
+    "Size": 16,
+    "String": "time.zoneTrans",
+    "Kind": 25,
+    "KindName": "struct",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": [
+      {
+        "Name": "when",
+        "PkgPath": "time",
+        "TypeFqn": "int64",
+        "Tag": ""
+      },
+      {
+        "Name": "index",
+        "PkgPath": "time",
+        "TypeFqn": "uint8",
+        "Tag": ""
+      },
+      {
+        "Name": "isstd",
+        "PkgPath": "time",
+        "TypeFqn": "bool",
+        "Tag": ""
+      },
+      {
+        "Name": "isutc",
+        "PkgPath": "time",
+        "TypeFqn": "bool",
+        "Tag": ""
+      }
+    ]
+  },
+  "uint16": {
+    "Name": "uint16",
+    "PkgPath": "",
+    "Size": 2,
+    "String": "uint16",
+    "Kind": 9,
+    "KindName": "uint16",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "uint64": {
+    "Name": "uint64",
+    "PkgPath": "",
+    "Size": 8,
+    "String": "uint64",
+    "Kind": 11,
+    "KindName": "uint64",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  },
+  "uint8": {
+    "Name": "uint8",
+    "PkgPath": "",
+    "Size": 1,
+    "String": "uint8",
+    "Kind": 8,
+    "KindName": "uint8",
+    "ElemFqn": "",
+    "KeyFqn": "",
+    "Fields": null
+  }
+}
